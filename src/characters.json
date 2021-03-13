@@ -1,0 +1,40 @@
+{
+    "cards": [
+      {
+        "kanji": "人",
+        "translation": "person",
+        "kunReadings": ["ひと", "-り", "-と"],
+        "onReadings": ["ジン", "ニン"]
+      },
+      {
+        "kanji": "一",
+        "translation": "one",
+        "kunReadings": ["ひと-", "ひと.つ"],
+        "onReadings": ["イチ", "イツ"]
+      },
+      {
+        "kanji": "二",
+        "translation": "two",
+        "kunReadings": ["ふた-", "ふた.つ", "ふたたび"],
+        "onReadings": ["二", "ジ"]
+      },
+      {
+        "kanji": "三",
+        "translation": "three",
+        "kunReadings": ["み", "み.つ", "みっ.つ"],
+        "onReadings": ["サン", "ゾウ"]
+      },
+      {
+        "kanji": "四",
+        "translation": "one",
+        "kunReadings": ["ひと-", "ひと.つ"],
+        "onReadings": ["イチ", "イツ"]
+      },
+      {
+        "kanji": "二",
+        "translation": "two",
+        "kunReadings": ["ふた-", "ふた.つ", "ふたたび"],
+        "onReadings": ["二", "ジ"]
+      }
+    ]
+  }

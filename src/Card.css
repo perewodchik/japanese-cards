@@ -1,0 +1,36 @@
+.card {
+    width: 256px;
+    height: 256px;
+    margin-bottom: 16px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    box-shadow: rgb(0,0,0,0.2) 4px 4px 8px 0px;
+    transition: 0.5s;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.card__kanji {
+    font-family: 'MS PGothic', Osaka, Arial, sans-serif;
+    font-size: 108px;
+    margin: 0px;
+    text-align: center;
+}
+
+.card__translation {
+    font-size: 32px;
+    text-align: center;
+    margin: 0px 8px 16px 8px;
+}
+
+.card__kunReading, .card__onReading {
+    text-align: center;
+    font-size: 18px;
+    margin: 0px;
+    margin-left: 8px;
+}
+
+.card:hover {
+
+}
