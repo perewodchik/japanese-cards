@@ -1,40 +1,70 @@
 {
-    "cards": [
-      {
-        "kanji": "人",
-        "translation": "person",
-        "kunReadings": ["ひと", "-り", "-と"],
-        "onReadings": ["ジン", "ニン"]
-      },
-      {
-        "kanji": "一",
-        "translation": "one",
-        "kunReadings": ["ひと-", "ひと.つ"],
-        "onReadings": ["イチ", "イツ"]
-      },
-      {
-        "kanji": "二",
-        "translation": "two",
-        "kunReadings": ["ふた-", "ふた.つ", "ふたたび"],
-        "onReadings": ["二", "ジ"]
-      },
-      {
-        "kanji": "三",
-        "translation": "three",
-        "kunReadings": ["み", "み.つ", "みっ.つ"],
-        "onReadings": ["サン", "ゾウ"]
-      },
-      {
-        "kanji": "四",
-        "translation": "one",
-        "kunReadings": ["ひと-", "ひと.つ"],
-        "onReadings": ["イチ", "イツ"]
-      },
-      {
-        "kanji": "二",
-        "translation": "two",
-        "kunReadings": ["ふた-", "ふた.つ", "ふたたび"],
-        "onReadings": ["二", "ジ"]
-      }
-    ]
-  }
+  "cards": [
+    {
+      "kanji": "人",
+      "translation": "person",
+      "kunReadings": ["ひと", "-り", "-と"],
+      "onReadings": ["ジン", "ニン"]
+    },
+    {
+      "kanji": "一",
+      "translation": "one",
+      "kunReadings": ["ひと-", "ひと.つ"],
+      "onReadings": ["イチ", "イツ"]
+    },
+    {
+      "kanji": "二",
+      "translation": "two",
+      "kunReadings": ["ふた-", "ふた.つ", "ふたたび"],
+      "onReadings": ["二", "ジ"]
+    },
+    {
+      "kanji": "三",
+      "translation": "three",
+      "kunReadings": ["み", "み.つ", "みっ.つ"],
+      "onReadings": ["サン", "ゾウ"]
+    },
+    {
+      "kanji": "四",
+      "translation": "four",
+      "kunReadings": ["よ", "よ.つ", "よっ.つ", "よん"],
+      "onReadings": ["シ"]
+    },
+    {
+      "kanji": "五",
+      "translation": "five",
+      "kunReadings": ["いつ", "いつ.つ"],
+      "onReadings": ["ゴ"]
+    },
+    {
+      "kanji": "六",
+      "translation": "six",
+      "kunReadings": ["む", "む.つ", "むっ.つ", "むい"],
+      "onReadings": ["ロク", "リク"]
+    },
+    {
+      "kanji": "七",
+      "translation": "seven",
+      "kunReadings": ["なな", "なな.つ", "なの"],
+      "onReadings": ["シチ"]
+    },
+    {
+      "kanji": "八",
+      "translation": "eight",
+      "kunReadings": ["や", "や.つ", "やっ.つ", "よう"],
+      "onReadings": ["ハチ"]
+    },
+    { 
+      "kanji": "九",
+      "translation": "nine",
+      "kunReadings": ["ここの", "ここの.つ"],
+      "onReadings": ["キュウ", "ク"]
+    },
+    {
+      "kanji": "十",
+      "translation": "ten",
+      "kunReadings": ["とお", "と", "そ"],
+      "onReadings": ["ジュウ", "ジッ", "ジュッ"]
+    }
+  ]
+}
