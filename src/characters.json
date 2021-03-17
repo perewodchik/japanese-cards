@@ -4,67 +4,121 @@
       "kanji": "人",
       "translation": "person",
       "kunReadings": ["ひと", "-り", "-と"],
-      "onReadings": ["ジン", "ニン"]
+      "onReadings": ["ジン", "ニン"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%E4%BA%BA-order.gif",
+      "tag": "numbers"
     },
     {
       "kanji": "一",
       "translation": "one",
       "kunReadings": ["ひと-", "ひと.つ"],
-      "onReadings": ["イチ", "イツ"]
+      "onReadings": ["イチ", "イツ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/7/7c/%E4%B8%80-order.gif",
+      "tag": "numbers"
     },
     {
       "kanji": "二",
       "translation": "two",
       "kunReadings": ["ふた-", "ふた.つ", "ふたたび"],
-      "onReadings": ["二", "ジ"]
+      "onReadings": ["二", "ジ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/8/8e/%E4%BA%8C-order.gif",
+      "tag": "numbers"
     },
     {
       "kanji": "三",
       "translation": "three",
       "kunReadings": ["み", "み.つ", "みっ.つ"],
-      "onReadings": ["サン", "ゾウ"]
+      "onReadings": ["サン", "ゾウ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/a/ae/%E4%B8%89-order.gif",
+      "tag": "numbers"
     },
     {
       "kanji": "四",
       "translation": "four",
       "kunReadings": ["よ", "よ.つ", "よっ.つ", "よん"],
-      "onReadings": ["シ"]
+      "onReadings": ["シ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/7/78/%E5%9B%9B-order.gif",
+      "tag": "numbers"
     },
     {
       "kanji": "五",
       "translation": "five",
       "kunReadings": ["いつ", "いつ.つ"],
-      "onReadings": ["ゴ"]
+      "onReadings": ["ゴ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/2/24/%E4%BA%94-order.gif",
+      "tag": "numbers"
     },
     {
       "kanji": "六",
       "translation": "six",
       "kunReadings": ["む", "む.つ", "むっ.つ", "むい"],
-      "onReadings": ["ロク", "リク"]
+      "onReadings": ["ロク", "リク"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%E5%85%AD-order.gif",
+      "tag": "numbers"
     },
     {
       "kanji": "七",
       "translation": "seven",
       "kunReadings": ["なな", "なな.つ", "なの"],
-      "onReadings": ["シチ"]
+      "onReadings": ["シチ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/5/59/%E4%B8%83-order.gif",
+      "tag": "numbers"
     },
     {
       "kanji": "八",
       "translation": "eight",
       "kunReadings": ["や", "や.つ", "やっ.つ", "よう"],
-      "onReadings": ["ハチ"]
+      "onReadings": ["ハチ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/2/2b/%E5%85%AB-order.gif",
+      "tag": "numbers"
     },
     { 
       "kanji": "九",
       "translation": "nine",
       "kunReadings": ["ここの", "ここの.つ"],
-      "onReadings": ["キュウ", "ク"]
+      "onReadings": ["キュウ", "ク"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/e/ee/%E4%B9%9D-order.gif",
+      "tag": "numbers"
     },
     {
       "kanji": "十",
       "translation": "ten",
       "kunReadings": ["とお", "と", "そ"],
-      "onReadings": ["ジュウ", "ジッ", "ジュッ"]
+      "onReadings": ["ジュウ", "ジッ", "ジュッ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%8D%81-order.gif",
+      "tag": "numbers"
+    },
+    {
+      "kanji": "日",
+      "translation": "Day, sun",
+      "kunReadings": ["ひ", "-び", "-か"],
+      "onReadings": ["ニチ", "ジツ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/f/f6/%E6%97%A5-order.gif",
+      "tag": "time"
+    },
+    {
+      "kanji": "月",
+      "translation": "Month, moon",
+      "kunReadings": ["つき"],
+      "onReadings": ["ゲツ", "ガツ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/9/92/%E6%9C%88-order.gif",
+      "tag": "time"
+    },
+    {
+      "kanji": "年",
+      "translation": "Year",
+      "kunReadings": ["とし"],
+      "onReadings": ["ネン"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/9/94/%E5%B9%B4-order.gif",
+      "tag": "time"
+    },
+    {
+      "kanji": "時",
+      "translation": "Time, hour",
+      "kunReadings": ["とき", "-どき"],
+      "onReadings": ["ジ"],
+      "strokeOrder": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%E6%99%82-order.gif",
+      "tag": "time"
     }
   ]
 }

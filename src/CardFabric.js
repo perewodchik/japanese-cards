@@ -1,5 +1,5 @@
 import React from 'react';
-import BasicCard from './BasicCard';
+import Card from './Card';
 import characters from "./characters.json";
 import "./CardFabric.css"
 
@@ -15,7 +15,7 @@ export class CardFabric extends React.Component {
     initializeCards() {
         for(var i in characters.cards) {
             this.cardRefs[i] = React.createRef();
-            this.cardComponents[i] =  <BasicCard notify={this.notify} key={i} ref={this.cardRefs[i]} charInfo={characters.cards[i]}/>;
+            this.cardComponents[i] =  <Card notify={this.notify} key={i} ref={this.cardRefs[i]} charInfo={characters.cards[i]}/>;
         }
     }
 
